@@ -29,3 +29,8 @@ Wndows 7 SP3、Windows 8、Windows 10
 
 https://platform01-1252076932.cos.ap-chengdu.myqcloud.com/statli_tools/RouteAddV1.2.exe
 
+若运行时闪退可能是因为PowerShell策略限制，可手动运行该命令进行解锁：
+
+powershell "Set-ExecutionPolicy -ExecutionPolicy Unrestricted -force |Out-null"
+
+
