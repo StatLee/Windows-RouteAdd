@@ -24,3 +24,8 @@ Wndows 7 SP3、Windows 8、Windows 10
 3、可视化的路由添加过程
 
 4、支持回滚操作
+
+下载成品链接：
+
+https://platform01-1252076932.cos.ap-chengdu.myqcloud.com/statli_tools/RouteAddV1.2.exe
+
